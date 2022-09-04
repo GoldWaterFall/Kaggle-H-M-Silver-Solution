@@ -1,7 +1,8 @@
 # Kaggle-H-M-Silver-Solution
 Kaggle H&amp;M Multimodal recommends 5% silver solution
+Address of the competition:https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations
 
-Running steps
+Running steps:
 1 Download the dataset
 2 Run code/ DATa_prepare to generate the PARquet file
 3 Run code/recall_sort, which contains the recall and sort parts
